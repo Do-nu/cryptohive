@@ -107,7 +107,6 @@ export function PriceCards() {
                             </p>
                         </div>
                     </div>
-
                     <div className={`flex items-center gap-1 ${
                         crypto.changeDirection === 'up'? 
                         'text-green-500' : 
